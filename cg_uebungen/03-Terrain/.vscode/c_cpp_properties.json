@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/*",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/winrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/winrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10150.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/shared",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/um",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/winrt",
+                "${workspaceRoot}",
+                "${workspaceRoot}/../framework/",
+                "${workspaceRoot}/../dependencies/glm/",
+                "${workspaceRoot}/../dependencies/glad/include/",
+                "${workspaceRoot}/../dependencies/glfw/include/"
+            ],
+            "defines": [
+                "UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/*",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/um",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10586.0/winrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/um",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/shared",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/winrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10150.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                    "C:/Program Files (x86)/Windows Kits/8.1/Include/shared",
+                    "C:/Program Files (x86)/Windows Kits/8.1/Include/um",
+                    "C:/Program Files (x86)/Windows Kits/8.1/Include/winrt",
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/../framework/",
+                    "${workspaceRoot}/../dependencies/glm/",
+                    "${workspaceRoot}/../dependencies/glad/include/",
+                    "${workspaceRoot}/../dependencies/glfw/include/"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}

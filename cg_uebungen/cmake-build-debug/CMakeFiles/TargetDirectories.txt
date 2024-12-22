@@ -1,0 +1,4 @@
+C:/Users/Mahan/OneDrive/Dokumente/Winter Semester  3-5/Computergraphik/Programmieung/cg_uebungen/cmake-build-debug/CMakeFiles/glad.dir
+C:/Users/Mahan/OneDrive/Dokumente/Winter Semester  3-5/Computergraphik/Programmieung/cg_uebungen/cmake-build-debug/CMakeFiles/03-Terrain.dir
+C:/Users/Mahan/OneDrive/Dokumente/Winter Semester  3-5/Computergraphik/Programmieung/cg_uebungen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mahan/OneDrive/Dokumente/Winter Semester  3-5/Computergraphik/Programmieung/cg_uebungen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

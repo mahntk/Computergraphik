@@ -1,0 +1,15 @@
+{
+    //"python.linting.pylintEnabled": false,
+    "python.linting.ignorePatterns":[
+        "SConscript.py",
+        "SConstruct"
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp"
+    }
+    //"python.linting.pylintArgs": ["--errors-only"]
+}

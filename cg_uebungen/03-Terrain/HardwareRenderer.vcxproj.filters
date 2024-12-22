@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Terrain.cpp" />
+    <ClCompile Include="..\dependencies\glad\src\glad.c">
+      <Filter>framework</Filter>
+    </ClCompile>
+    <ClCompile Include="..\framework\Window.cpp">
+      <Filter>framework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\framework\Program.h" />
+    <ClInclude Include="..\framework\Shader.h" />
+    <ClInclude Include="Terrain.h" />
+    <ClInclude Include="..\framework\BufferBase.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\IndexBuffer.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\glmmath.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\error.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\type_conversion.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\VertexArrayObject.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\VertexBuffer.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\Uniform.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\Timer.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+    <ClInclude Include="..\framework\Window.h">
+      <Filter>framework</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader\terrain.frag">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="shader\terrain.vert">
+      <Filter>shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="framework">
+      <UniqueIdentifier>{f1299e11-8a93-47c4-a2b6-a0f648ea19c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{b0876b62-f108-42d7-aa9f-f4b96a1029d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

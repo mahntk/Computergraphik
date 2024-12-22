@@ -1,0 +1,7 @@
+Steuerung:
+[W] und [S]: Gitter um die X-Achse rotieren (nach oben und unten kippen).
+[A] und [D]: Gitter um die Y-Achse rotieren (nach links und rechts drehen).
+[Z] und [X]: Gitter um die Z-Achse rotieren (drehen wie ein Kreisel).
+Skalierung:
+[Q]: Vergrößert das Gitter (Skalierung nach oben).
+[E]: Verkleinert das Gitter (Skalierung nach unten).
